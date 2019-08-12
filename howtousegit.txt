@@ -7,6 +7,7 @@ on git bash
 
 Git commands
 -------------
+git clone --> 1 time use for original files download
 git add filename.ext -> to track file and add to git
 git commit -> after making a change
 git push -> to push file onto GitHub
