@@ -1,0 +1,20 @@
+on git bash
+------------
+1. cd into project dir
+2. run 'code .' to run VS code in project dir
+3. Open termial using 'Ctrl + ~'
+4. Git commands are below
+
+Git commands
+-------------
+git clone  -> 1 time use for original files download
+git add filename.ext -> to track file and add to git
+git commit -> after making a change
+git commit -m "msg goes here" -> to add message without opening VS code commit pop up
+git push   -> to push file onto GitHub
+git pull   -> receive changes back for code 
+git status -> to see if a file is ready to be commit
+
+touch filename.ext -> to make a file
+
+
