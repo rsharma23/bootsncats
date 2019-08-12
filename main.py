@@ -1,3 +1,5 @@
+
 name = input("What is your real name? ")
 
-print("Your name is {}".format(name))
+
+print("Your cat's name is {}".format(name))
