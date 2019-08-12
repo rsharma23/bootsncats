@@ -16,5 +16,8 @@ git pull   -> receive changes back for code
 git status -> to see if a file is ready to be commit
 
 touch filename.ext -> to make a file
+mv arg1 arg2 -> mv stands for move, arg1 is name of the file you want to move, arg2 where do I want to move into
+rm PATH -> path of what file you want to remove
+
 
 
