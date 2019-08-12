@@ -1,3 +1,3 @@
 name = input("What is your name? ")
 
-print("Your name is {}".format(name))
+print("Your cat's name is {}".format(name))
